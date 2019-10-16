@@ -30,3 +30,8 @@ How it works:
 Future possibilities & Modification:   This project may be built with less cost in the future with modifications like, faster data upload and streaming with improved accuracy.
 
 Motive:  This can be utilized to make remote patient’s data accessible to doctors outside the area.
+
+
+Sensor Code Credit : http://udayankumar.com/2016/05/17/heart-beat-raspberry/
+
+Streamer Code - Self
